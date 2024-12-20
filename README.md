@@ -1,5 +1,6 @@
 # Flashlearn Laravel
 ### Open-Source
+### Free discord token: MTA5MjA1MjQ4NjAxNTE1NjI2NQ.G3CJ1e.V8IwW90JU2z217kwGClleNp7WYEduTXOWvEIyU
 
 ## Overview
 
